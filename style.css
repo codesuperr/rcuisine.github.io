@@ -1,0 +1,102 @@
+/*
+h1 {
+	color: red;
+	font-size: 75px;
+}
+h1.titre {
+	color: red;
+	font-size: 75px;
+
+}
+header img{
+	border-radius: 50%;
+}
+header img,h1 {
+	display : inline-block;
+}
+
+
+h2.introduction{
+	color: green;
+}
+p.intro{
+	font-size: 18px;
+	color: brown;
+	opacity: 0.5;
+	padding-left :50px;
+}
+h2{
+	color: blue;
+	padding-left :10px;
+	font-size : 40px
+}
+h3{
+	color: orange;
+	font-size: 30px;
+	padding-left :30px;
+}
+p{
+	font-size: 20px;
+	padding-left :50px;
+}
+body{
+	background-color: #36D790;
+}
+img{
+	padding-left :50px;
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}
+nav.menu-nav ul li.btn a{
+	color : white;
+	background-color : red;
+	text-decoration : none;
+	padding : 30px
+	
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	transition: 0.3s all;
+}
+body.accueil{
+	background: url("https://www.challenge.ma/wp-content/uploads/2020/01/Meknes.jpg")no-repeat;
+	background-size: 1400px
+}
+*/
+
+
+
+body.accueil{
+	background: url("https://st2.depositphotos.com/3300441/11955/i/950/depositphotos_119559532-stock-photo-pizza-making-background.jpg")no-repeat;
+	background-size: 1500px
+}
+
+
+
+nav.menu-nav ul li.btn a{
+	font-size: 20px;
+	
+	
+}
+h4.ingrediants {
+	color: #AF2121;
+	font-size: 20px;
+	
+}
+
+h4.ustanciles {
+	color: #AF2121;
+	font-size: 20px;
+}
+body.crepes{
+		background: url("https://st2.depositphotos.com/3300441/11955/i/950/depositphotos_119559532-stock-photo-pizza-making-background.jpg")no-repeat;
+	background-size: 1500px
+}
